@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "css-loader": "^6.2.0",
+    "style-loader": "^3.2.1",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "name": "webpack-static-template",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fingerskier/webpack-static-template.git"
+  },
+  "keywords": [],
+  "author": "fingerskier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fingerskier/webpack-static-template/issues"
+  },
+  "homepage": "https://github.com/fingerskier/webpack-static-template#readme"
+}
